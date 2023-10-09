@@ -153,4 +153,4 @@ ball = GameSprite('ball_stal.png', 350, 250, 30, 30, 3, 3)
     if finish == False:
 
         window.blit(fon, (0, 0))
-        platforms.draw(windo
+        platforms.draw(window)
